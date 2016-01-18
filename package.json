@@ -1,0 +1,28 @@
+{
+  "name": "fis3-postprocessor-autoprefixer",
+  "version": "1.0.0",
+  "description": "基于postcss/autoprefixer的fis3后处理插件",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "huixisheng",
+    "email": "469184346@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huixisheng/fis3-postprocessor-autoprefixer.git"
+  },
+  "homepage": "https://github.com/huixisheng/fis3-postprocessor-autoprefixer",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-flexboxfixer": "0.0.4",
+    "postcss-gradientfixer":"0.0.5",
+    "autoprefixer":"6.3.1",
+    "postcss": "5.0.13"
+  }
+}
