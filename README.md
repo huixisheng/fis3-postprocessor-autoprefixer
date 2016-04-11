@@ -6,7 +6,7 @@ fis3-postprocessor-autoprefixer
 
 ## 安装 ##
 
-    sudo npm insstall [-g] fis3-postprocessor-autoprefixer
+    sudo npm install [-g] fis3-postprocessor-autoprefixer
 
 ## 使用说明 ##
 
